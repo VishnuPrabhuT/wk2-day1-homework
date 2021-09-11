@@ -1,0 +1,22 @@
+{
+  "name": "stats-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishnuPrabhuT/wk2-day1-homework.git"
+  },
+  "author": "Vishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishnuPrabhuT/wk2-day1-homework/issues"
+  },
+  "homepage": "https://github.com/VishnuPrabhuT/wk2-day1-homework#readme",
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
+}
